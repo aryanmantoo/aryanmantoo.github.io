@@ -1,0 +1,49 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 28 Jan 2021 11:42:24 at https://www.pubgmobile.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.pubgmobile.in/ -O1 "D:\p" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/css/fonts/Headliner-No-45.eot? (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/history/top.png (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/bbs/top_visual.jpg (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/info/overview_bg.jpg (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/info/participation_bg.jpg (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/info/participation_bg1.jpg (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/info/participation_bg2.jpg (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/live/noti.png (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/sub/match.png (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/sub/table_line.png (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/event/step_arrow.png (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/event/plus.png (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/event/prediction_banner.jpg (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/slick/btn_prev.png (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/slick/btn_next.png (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/event/event2_percent.png (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/event/event2_percent_on.png (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/icon/arrow_prev.png (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/icon/arrow_next.png (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/popup/bg.png (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/common/bg_popup2.jpg (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/second/overview_bg.jpg (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/second/participation_bg2.jpg (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/second/info_last_bg.jpg (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/second/info_logo.png (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/bbs/top_visual_m.jpg (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/info/overview_bg_m.jpg (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/info/soon_bg_m.jpg (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/event/event1_step1.png (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/event/event1_step2.png (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/event/event1_step3.png (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/event/event_bg_m.png (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/second/event_pop1.png (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/second/event_pop2.png (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/second/event_pop3.png (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/event/prediction_banner_m.jpg (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/sub/sub2_bg_m.jpg (from https://www.pubgmobile.in/common/css/common.css)
+11:43:03	Error: 	"Not Found" (404) at link https://www.pubgmobile.in/common/img/second/overview_bg_m.jpg (from https://www.pubgmobile.in/common/css/common.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 39 seconds : 128 links scanned, 89 files written (4645511 bytes overall) [3972499 bytes received at 101858 bytes/sec], 935461 bytes transferred using HTTP compression in 13 files, ratio 23%, 14.2 requests per connection
+(38 errors, 0 warnings, 0 messages)
